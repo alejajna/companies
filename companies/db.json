@@ -1,0 +1,29 @@
+{
+    "companies": [
+        {
+            "id" :"sc123",
+            "name" : "Coca-Cola",
+            "description" : "corporación multinacional estadounidense de bebidas con sede en Atlanta, Georgia.",
+            "founder" : "Asa Griggs Candler",
+            "logo" : "https://ams3.digitaloceanspace.com/graffica/2023/02/cocacola-logo.jpg",
+            "website" : "https://www.coca-colacompany.com/"
+        }
+    ],
+    "employees": [
+        {
+            "id" : "ds12",
+            "name" : "Ronald",
+            "last_name" : "Ortiz",
+            "email" : "ronald.ortiz@riwi.io",
+            "position" : "Trainer de desarrollo de Software",
+            "admission_date": "01-10-2023",
+            "status" : "active",
+            "cv" : "aquí enlace de la hoja de vida en PDF",
+            "website" : "portafolio o sitio web de la persona",
+            "company_id" : "sc23"
+        }
+    ]
+}
+
+
+
